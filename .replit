@@ -1,0 +1,7 @@
+modules = ["bash", "python-3.9"]
+run = "python 20240724/1259.py"
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["sh", "-c", "run"]
