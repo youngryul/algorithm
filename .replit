@@ -1,5 +1,5 @@
 modules = ["bash", "python-3.9"]
-run = "python 20240724/1259.py"
+run = "python 20240726/2744.py"
 [nix]
 channel = "stable-24_05"
 
